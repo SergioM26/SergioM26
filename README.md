@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sergio Moreno
+# Hello, Samce here 👋
 I'm a **Computer Systems Engineering student** passionate about crafting efficient workflows.
 
 ---
@@ -23,7 +23,6 @@ I'm a **Computer Systems Engineering student** passionate about crafting efficie
 **Tools & Environments**  
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-00A8E8?style=flat-square&logo=wayland&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 
