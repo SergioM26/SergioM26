@@ -1,5 +1,5 @@
 # Hello, Samce here 👋
-I'm a **Computer Systems Engineering student** passionate about crafting efficient workflows.
+I'm a **Computer Systems Engineering student** passionate about crafting efficient workflows. I use NixOs, btw.
 
 ---
 
